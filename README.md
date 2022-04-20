@@ -81,4 +81,4 @@ $ npm run start
 ## Contact
 
 - GitHub [@leonidasdel](https://github.com/leonidasdel})
-- Linkedin [@Leonidas Deliolan](https://www.linkedin.com/in/leonidas-deliolan-a24480198/})
+- Linkedin [@Leonidas Deliolan](https://www.linkedin.com/in/leonidas-deliolan-a24480198/)
